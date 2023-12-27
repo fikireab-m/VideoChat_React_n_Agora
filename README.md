@@ -1,1 +1,1 @@
-Video call application using react and Agora SDK
+## Video call application using React and Agora SDK
